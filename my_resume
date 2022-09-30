@@ -1,0 +1,9 @@
+
+  command 'kswitch' from deb heimdal-clients (7.7.0+dfsg-3ubuntu1)
+  command 'kswitch' from deb krb5-user (1.19.2-2)
+See 'snap info <snapname>' for additional versions.
+
+  command 'kswitch' from deb heimdal-clients (7.7.0+dfsg-3ubuntu1)
+  command 'kswitch' from deb krb5-user (1.19.2-2)
+See 'snap info <snapname>' for additional versions.
+
